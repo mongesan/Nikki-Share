@@ -1,9 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Nikki-Share
 
-You can use the [editor on GitHub](https://github.com/mongesan/Nikki-Share/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Test
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Test
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
